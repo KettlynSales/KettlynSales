@@ -4,8 +4,8 @@
 - 🌱 Estudando React Native, NodeJs, TypeScript e Segurança da Informação
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KettlynSales&theme=omni&hide_border=false&include_all_commits=false&count_private=false">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KettlynSales&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KettlynSales&theme=omni&hide_border=true&include_all_commits=true&count_private=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KettlynSales&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
 <div style="display: inline_block"><br>
