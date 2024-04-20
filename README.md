@@ -1,7 +1,8 @@
 ### Oiii! Eu sou a Kettlyn Sales
 
-- 🔭 Atualmente trabalho como desenvolvedora fullStack, com foco em desenvolvimento mobile utilizando React Native
-- 🌱 Estudando React Native, NodeJs, TypeScript e Segurança da Informação
+- 👩🏻‍💻 Atualmente trabalho como desenvolvedora fullStack, com foco em desenvolvimento mobile utilizando React Native.
+- 🎓 Cusando o segundo semestre de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba(Facens).
+- 📚 Estudando React Native, NodeJs, TypeScript e Segurança da Informação.
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KettlynSales&theme=omni&hide_border=true&include_all_commits=true&count_private=true">
