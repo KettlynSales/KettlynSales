@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho como desenvolvedora fullStack, com foco em desenvolvimento mobile utilizando React Native
 - 🌱 Estudando React Native, NodeJs, TypeScript e Segurança da Informação
-- 😄 Pronouns: ela/dela
 
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=KettlynSales&theme=omni&hide_border=false&include_all_commits=false&count_private=false">
@@ -23,8 +22,6 @@
 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/KettlynSales/KettlynSales/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
